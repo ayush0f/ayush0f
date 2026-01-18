@@ -3,7 +3,7 @@
 
 
 
-printf("Hello world")
+good morning
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
  ‎ ‎‎  ↓
               
